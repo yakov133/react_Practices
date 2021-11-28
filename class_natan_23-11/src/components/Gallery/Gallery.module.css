@@ -1,0 +1,25 @@
+.gallery {
+  display: grid;
+  grid-template-columns: auto auto auto auto auto;
+  margin: 1%;
+}
+.gallery img {
+  width: 50%;
+  height: 50%;
+}
+.mainPic {
+  width: 40%;
+  height: 5%;
+}
+
+.mianDiv {
+  display: flex;
+  margin-left: 28%;
+  width: 100%;
+  height: 5%;
+}
+.mianDiv button {
+  height: 1%;
+  margin-top: 13%;
+}
+
